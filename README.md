@@ -2,6 +2,9 @@ Title: Transition Flight Control System Design for Tilt-Rotor eVTOL Aircraft
 
 Objective: To create a flight control system where seamless transition is made vertical take off and forward flight. Necessary controllers must be developed to control hover and forward flight transition.
 
+Software used: SIMULINK
+
+How to view: Open the file in SIMULINK to view the subsystems built to meet the final requirments.
 
 
 METHODOLOGY:
