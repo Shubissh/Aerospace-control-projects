@@ -6,6 +6,13 @@ Software used: SIMULINK
 
 How to view: Open the file in SIMULINK to view the subsystems built to meet the final requirments.
 
+Subsystem Classification:
+Top right: Forward Dynamics 
+Bottom right: Vertical Dynamics
+Middle: Thrust vectoring
+Bottom Left: Altitude controller
+Middle Left: Beta angle/velocity controller
+
 
 METHODOLOGY:
 
